@@ -410,7 +410,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Project**: Advanced House Price Prediction System
 - **Technology Stack**: Python, Scikit-learn, Flask, HTML/CSS/JavaScript
 - **Machine Learning**: Multiple Linear Regression with Feature Engineering
-- **Contact**: [Your contact information]
+- **Contact**: LinkdIn: https://www.linkedin.com/in/abdul-haseeb-b1644b279/
 
 ## 🙏 Acknowledgments
 
